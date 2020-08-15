@@ -1,3 +1,5 @@
+matplotlib
+seaborn
 plotly.express
 pandas
 plotly.graph_objects
